@@ -49,7 +49,7 @@ The **Children's Rights Awareness Platform** is an innovative, gamified platform
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/rohitsingh290320052/I-am-aware.git
    ```
 2. Navigate to the project directory:
    ```bash
