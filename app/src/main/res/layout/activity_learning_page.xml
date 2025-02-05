@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Learning_page">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#E040FB"
+        android:id="@+id/welcm"
+        android:layout_gravity="center"
+        android:visibility="visible"
+        android:layout_marginTop="300dp"
+        android:text="Welcome to the First Module"
+        android:textSize="28dp"
+        android:textStyle="italic|bold">
+
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Let's begin with a video representation"
+        android:textSize="26dp"
+        android:layout_marginTop="1dp"
+        android:id="@+id/bign"
+        android:visibility="invisible"
+        android:layout_gravity="center"
+        android:textStyle="italic"
+        android:textColor="#EC598B">
+
+    </TextView>
+
+
+
+</LinearLayout>
