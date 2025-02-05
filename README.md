@@ -51,12 +51,8 @@ The **Children's Rights Awareness Platform** is an innovative, gamified platform
    ```bash
    git clone https://github.com/rohitsingh290320052/I-am-aware.git
    ```
-2. Navigate to the project directory:
-   ```bash
-   cd childrens-rights-awareness
-   ```
-3. Open the project in Android Studio.
-4. Build and run the application on an emulator or a physical device.
+2. Open the project in Android Studio.
+3. Build and run the application on an emulator or a physical device.
 
 
 ---
